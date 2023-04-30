@@ -27,7 +27,7 @@ def handler(event, context=None):
         
     
 if __name__ == "__main__":
-    os.environ['app_table'] = 'temp-commissioning-tempCommissioningAppTable50B65A65-1R9OTTT5IVI5Y'
+    os.environ['app_table'] = 'apptable-name'
 
     event = {
         'httpMethod': 'GET',

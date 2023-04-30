@@ -53,9 +53,9 @@ def handler(event, context):
         
     
 if __name__ == "__main__":
-    os.environ['userpool_id'] = "ap-southeast-2_3YxhA9LZE"
-    os.environ['client_id'] = "26ei4i6fvoupc72djs724hsruk"
-    os.environ['user_table'] = 'Commissioning-CommissioningUserTableB0EFFC73-BON8AEY9XEDA'
+    os.environ['userpool_id'] = "userpool-id"
+    os.environ['client_id'] = "userpool-clientid"
+    os.environ['user_table'] = 'user-table'
 
     body = {
         "first": "fakejarrod",
