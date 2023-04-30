@@ -61,7 +61,7 @@ if __name__ == "__main__":
         "first": "fakejarrod",
         "last": "fakemccarthy",
         "nickname": "fakenickname",
-        "email": "jarrod.m@simpleai.com.au",
+        "email": "somefakeemail@gmail.com",
         "password": "fakep@ssword1234",
         "role": 1
     }
